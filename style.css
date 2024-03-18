@@ -1,0 +1,55 @@
+#navebar{
+    background-color: #222831;
+    
+}
+#main_banner{
+    border: 1px solid black;
+    /* background-color: black; */
+    height: 90vh;
+    width: 100%;
+    background-image: url(img/main\ pic.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#row_1{
+    margin-top: 10%;
+}
+#img_1{
+    height: 200px;
+    width: 200px;
+    border: 3px solid yellow;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+#img_1:hover{
+    cursor: pointer;
+    transform: scale(1.080);
+}
+/* 2 box */
+#box_1{
+    background-color: #222831;
+}
+/* discount */
+#discount{
+    margin-top: 100px;
+}
+#box_row_1{
+    margin-top: 100px;
+}
+#df:hover{
+    cursor: pointer;
+    transform: scale(1.080);
+}
+#dfcolor{
+    background-color: #222831;
+    color:white;
+    border-radius: 50px;
+    height: 300px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+/* footer */
+#footer{
+    background-color: #222831;
+    margin-top: 50px;
+}
